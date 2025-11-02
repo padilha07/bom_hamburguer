@@ -1,0 +1,51 @@
+# Flutter & Dart
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.melos_tool/
+build/
+coverage/
+pubspec.lock
+generated_plugin_registrant.dart
+
+# IntelliJ / Android Studio
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# VS Code
+.vscode/
+.history/
+
+# macOS / Linux / Windows
+.DS_Store
+*.swp
+*.swo
+*.tmp
+Thumbs.db
+
+# Android
+.gradle/
+local.properties
+**/GeneratedPluginRegistrant.java
+**/GeneratedPluginRegistrant.kt
+
+# iOS
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/ServiceDefinitions.json
+ios/Runner/GeneratedPluginRegistrant.*
+
+# Web
+web/generated_plugin_registrant.dart
+
+# Coverage reports
+coverage/
+lcov.info
+
+# Metadata
+.metadata
